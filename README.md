@@ -1,11 +1,9 @@
-### // SYSTEM_STATUS: ONLINE
-### // OPERATOR: [0xCurSE]
+[0xCurSE]
 
 > "Hunting the hunters. Social Engineering & OSINT."
 
 ---
 
-### ⚡ Mission Parameters
 Dedicated to the identification, analysis, and neutralization of cyber threats and SCAM operations.
 My focus areas include:
 * 🕵️ **OSINT** (Open Source Intelligence)
