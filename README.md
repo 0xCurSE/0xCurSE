@@ -1,16 +1,20 @@
-## Hi there 👋
+### // SYSTEM_STATUS: ONLINE
+### // OPERATOR: [0xCurSE]
 
-<!--
-**0xCurSE/0xCurSE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "Hunting the hunters. Social Engineering & OSINT."
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Mission Parameters
+Dedicated to the identification, analysis, and neutralization of cyber threats and SCAM operations.
+My focus areas include:
+* 🕵️ **OSINT** (Open Source Intelligence)
+* 🧠 **Social Engineering Defense**
+* 🐍 **Python Automation** (Threat detection & Takedowns)
+
+### 📡 Current Operations
+* Phishing campaign analysis targeting e-commerce platforms.
+* Developing automated tools for detecting fraudulent domains and phishing kits.
+* Researching new Social Engineering vectors in the wild.
+
+---
